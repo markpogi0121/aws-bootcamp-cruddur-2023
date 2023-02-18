@@ -4,7 +4,9 @@
 
 2. Creating a gitpod account is also something new to me but given there is a video on how to do it, this would be an easy task. 
 
-3. I also have myself familiarize in creating a repository in github
+3. I also have myself familiarize in creating a repository in github. 
+
+4. Attenpted to recreate the Cruddr Logical Diagram using Lucid Charts. This would be my first time to use Lucid Charts or any charting application so it would take me some time to figure this out without much supervision. However, ue to limited time and a lot going on, I was only able to create a partial portion of the diagram. 
 
 
 
