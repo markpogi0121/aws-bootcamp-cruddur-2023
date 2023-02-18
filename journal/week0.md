@@ -4,6 +4,8 @@
 
 2. Creating a gitpod account is also something new to me but given there is a video on how to do it, this would be an easy task. 
 
+3. I also have myself familiarize in creating a repository in github
+
 
 
 
