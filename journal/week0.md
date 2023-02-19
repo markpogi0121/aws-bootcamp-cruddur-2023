@@ -24,3 +24,11 @@
 
 ![AWS CLI](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/AWS%20CLI.png))
 
+The aws --cli-auto-prompt command is useful as it activates the auto-prompt. 
+
+10. Once I created gitpod, I did follow some of Andrew Brown's tutorial on AWS CLI but my current stumbling block would be on the IAM issue. I'll try to find a way to fix this. 
+
+![GIT POD](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/Git%20Pod.png)
+
+
+
