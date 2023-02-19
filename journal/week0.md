@@ -8,5 +8,7 @@
 
 4. Attenpted to recreate the Cruddr Logical Diagram using Lucid Charts. This would be my first time to use Lucid Charts or any charting application so it would take me some time to figure this out without much supervision. However, ue to limited time and a lot going on, I was only able to create a partial portion of the diagram. 
 
+5. Created an account for honeycomb.io. I have no idea what it is but let's see. 
+
 ![Cruddr Logical Diagram](assets/Cruddr%20Logical%20Diagram_Partial.png)
 
