@@ -10,5 +10,7 @@
 
 5. Created an account for honeycomb.io. I have no idea what it is but let's see. 
 
+6. Created an account for rollbar.com. Just like with honeycomb, I have no idea how this works so it would take some time to get used to new applications. 
+
 ![Cruddr Logical Diagram](assets/Cruddr%20Logical%20Diagram_Partial.png)
 
