@@ -20,3 +20,7 @@
 
 ![IAM Access Denied](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/IAM%20Access%20Denied.png)
 
+9. This was also my first time to use the AWS CLI. While I've been using Linux CLI for a decade, this seems new to me as the command are different like this one. 
+
+![AWS CLI](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/AWS%20CLI.png))
+
