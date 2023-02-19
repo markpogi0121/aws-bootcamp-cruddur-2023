@@ -14,3 +14,9 @@
 
 6. Created an account for rollbar.com. Just like with honeycomb, I have no idea how this works so it would take some time to get used to new applications. 
 
+7. Set-up MFA for AWS root user. 
+
+8. Then for setting up IAM on my AWS account, for some reason, after creating a new user and updating the password, when I go back to IAM, its giving me an Access Denied Error message like this. I may need to play with this for a while.  
+
+![IAM Access Denied](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/IAM%20Access%20Denied.png)
+
