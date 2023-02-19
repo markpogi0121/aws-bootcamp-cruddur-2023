@@ -8,7 +8,7 @@
 
 4. Attenpted to recreate the Cruddr Logical Diagram using Lucid Charts. This would be my first time to use Lucid Charts or any charting application so it would take me some time to figure this out without much supervision. However, ue to limited time and a lot going on, I was only able to create a partial portion of the diagram. 
 
-![Cruddur_Logical_Diagram](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/Cruddr%20Logical%20Diagram_Partial.png)
+![Cruddur_Logical_Diagram](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/Cruddr%20Logical%20Diagram_Partial_A.png)
 
 5. Created an account for honeycomb.io. I have no idea what it is but let's see. 
 
