@@ -12,5 +12,5 @@
 
 6. Created an account for rollbar.com. Just like with honeycomb, I have no idea how this works so it would take some time to get used to new applications. 
 
-![Cruddr Logical Diagram](assets/Cruddr%20Logical%20Diagram_Partial.png)
+![Cruddur_Logical_Diagram](https://github.com/markpogi0121/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/Cruddr%20Logical%20Diagram_Partial.png)
 
