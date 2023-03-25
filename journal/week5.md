@@ -13,3 +13,7 @@ Utilizing a Global Secondary Index (GSI) with DynamoDB
 Rapid data modelling and implementation of DynamoDB with DynamoDB Local
 
 Writing utility scripts to easily setup and teardown and debug DynamoDB data
+
+
+
+
